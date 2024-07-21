@@ -5,10 +5,10 @@
   font-family: "Cormorant Garamond", serif;
 }
 body {
-  background-color: #a8a8a8;
+  background: #490700;
 }
 .quote-box {
-  background-color: #ffffff;
+  background-color: #ffffffc0;
   width: 90%;
   position: absolute;
   top: 50%;
