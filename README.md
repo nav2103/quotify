@@ -9,7 +9,6 @@ Quotify is a simple web application that displays a random quote from the Breaki
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Demo
 
@@ -65,5 +64,3 @@ If you have any questions or suggestions, feel free to reach out:
 
 - GitHub: [Navneet](https://github.com/nav2103)
 - Email: navneetsingh2103@gmail.com
-
-```
