@@ -63,7 +63,7 @@ quotify/
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [yourusername](https://github.com/nav2103)
+- GitHub: [Navneet](https://github.com/nav2103)
 - Email: navneetsingh2103@gmail.com
 
 ```
